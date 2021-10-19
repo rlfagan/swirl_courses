@@ -1,4 +1,6 @@
 # swirl courses
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fswirl_courses.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fswirl_courses?ref=badge_shield)
+
 
 This is a collection of interactive courses for use with the [swirl R package](http://swirlstats.com). You'll find instructions for installing courses further down on this page. Some courses are still in development and we'd love to hear any [suggestions](https://github.com/swirldev/swirl_courses/issues/new) you have as you work through them.
 
@@ -84,3 +86,7 @@ Instructors around the world are using swirl in their classrooms. We think this 
 
 If you are not sure about a particular use case, don't hesitate to post a
 question to our [Google Group](https://groups.google.com/forum/#!forum/swirl-discuss).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fswirl_courses.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fswirl_courses?ref=badge_large)
